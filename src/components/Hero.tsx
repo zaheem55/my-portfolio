@@ -1,7 +1,7 @@
 import React from 'react'
 import Navbar from './Navbar'
 import Image from 'next/image'
-import profile from "../../publish/zaheem porfile.png.jpeg"
+import profile from "../../publish/zaheem_porfile.jpeg"
 
 const Hero = () => {
   return (
