@@ -20,9 +20,9 @@ const data = [
   },
   { 
     id: 2,
-    title: "New Project Title",
-    desc: "Description of the new project.",
-    img: "/images/myImage.jpg",
+    title: "Dynamic Resume Builder",
+    desc: "A Typescript-based interactive resume built with HTML and CSS, allowing users to showcase their skills.",
+    img: "/project_3.JPG",
     tags: ["HTML", "CSS", "JavaScript"]
   }
 ];
